@@ -1,0 +1,38 @@
+/* ===== DARK MODE ===== */
+.dark-mode {
+    background: #1e293b !important;
+    color: #f1f5f9 !important;
+}
+
+/* Cards in dark mode */
+.dark-mode .card {
+    background: #334155;
+    color: #f1f5f9;
+}
+
+/* List items */
+.dark-mode .list-group-item {
+    background: #334155;
+    color: #f1f5f9;
+    border-bottom: 1px solid #475569;
+}
+
+/* Inputs */
+.dark-mode input {
+    background: #475569;
+    color: white;
+    border: none;
+}
+
+/* Buttons */
+.dark-mode .btn-primary {
+    background: #6366f1;
+}
+
+.dark-mode .btn-success {
+    background: #22c55e;
+}
+
+.dark-mode .btn-danger {
+    background: #ef4444;
+}

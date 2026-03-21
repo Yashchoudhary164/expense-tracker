@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-change-this-key'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['expense-tracker-86nx.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 # APPLICATIONS
 INSTALLED_APPS = [

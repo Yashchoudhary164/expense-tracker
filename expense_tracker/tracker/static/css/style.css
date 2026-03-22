@@ -36,3 +36,11 @@
 .dark-mode .btn-danger {
     background: #ef4444;
 }
+body {
+    display: flex;
+    justify-content: center;   /* horizontal center */
+    align-items: center;       /* vertical center */
+    height: 100vh;             /* full screen height */
+    margin: 0;
+    background-color: #f5f5f5; /* optional */
+}
